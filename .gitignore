@@ -1,0 +1,6 @@
+.DS_Store
+.vite
+.idea
+.nova
+dist
+node_modules
